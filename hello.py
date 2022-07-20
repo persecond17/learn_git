@@ -1,4 +1,4 @@
 # Learning git/github
 
 This repository is a mechanism to learn git/github.
-print('hello')
+print('just say hello')
